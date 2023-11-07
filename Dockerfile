@@ -16,9 +16,6 @@ ENV	VNC_PASS="samplepass" \
 	VNC_SHARED=0 \
 #Local Display Server Port
 	DISPLAY=:0 \
-#NoVNC Port
-	NOVNC_PORT=$PORT \
-	PORT=8080 \
 #Locale
 	LANG=en_US.UTF-8 \
 	LANGUAGE=en_US.UTF-8 \
