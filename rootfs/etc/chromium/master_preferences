@@ -1,0 +1,25 @@
+{
+    "Distribution": {
+      "SkipFirstRunUI": true,
+      "ImportSearchEngine": true,
+      "HomepageIsNewTabPage": true,
+      "ImportBookmarks": false,
+      "ImportHistory": false,
+      "ImportHomepage": false,
+      "ImportAutofillFormData": false,
+      "ImportSavedPasswords": false,
+      "ImportSessionCookies": false,
+      "CreateAllShortcuts": true,
+      "DoNotCreateDesktopShortcut": true,
+      "DoNotCreateQuickLaunchShortcut": true,
+      "DoNotCreateTaskbarShortcut": true,
+      "DefaultSearchProviderEnabled": true,
+      "DefaultSearchProviderSearchURL": "https://www.google.com/search?q={searchTerms}",
+      "DefaultSearchProviderName": "Google",
+      "DefaultSearchProviderKeyword": "google.com",
+      "DefaultSearchProviderSuggestURL": "https://suggestqueries.google.com/complete/search?output=chrome&client=chrome&hl={language}&q={searchTerms}",
+      "DefaultBrowserSettingEnabled": false,
+      "ShowHomeButton": true
+    }
+  }
+  
