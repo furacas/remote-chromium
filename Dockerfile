@@ -7,9 +7,7 @@ LABEL Maintainer="furacas <s@furacas.com>"
 ARG DEBIAN_FRONTEND=noninteractive
 
 # VNC Server Password
-ENV VNC_PASS="samplepass" \
-# VNC Server Title(w/o spaces)
-    VNC_TITLE="Chromium" \
+ENV VNC_TITLE="Chromium" \
 # VNC Resolution(720p is preferable)
     VNC_RESOLUTION="1280x720" \
 # VNC Shared Mode (0=off, 1=on)
