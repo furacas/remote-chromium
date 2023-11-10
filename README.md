@@ -10,7 +10,6 @@ After running the Docker command, you can access the remote Chromium browser via
 |      Name      |                description                                     |
 |:--------------:|:--------------------------------------------------------------:|
 |    VNC_PASS    |               VNC Password                                     |
-|    VNC_TITLE   |               VNC Session Title (Default: Chromium)            |
 | VNC_RESOLUTION |               VNC Resolution (Default: 1280x720)               |
 
 ## Credits
